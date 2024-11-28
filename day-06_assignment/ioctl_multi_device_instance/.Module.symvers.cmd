@@ -1,0 +1,1 @@
+savedcmd_/home/sunbeam/Desktop/college/sunbeam/Daily_codes/ldd/06_pchar_ioctl/Module.symvers :=  scripts/mod/modpost -m -a      -o /home/sunbeam/Desktop/college/sunbeam/Daily_codes/ldd/06_pchar_ioctl/Module.symvers -T /home/sunbeam/Desktop/college/sunbeam/Daily_codes/ldd/06_pchar_ioctl/modules.order -i Module.symvers -e 

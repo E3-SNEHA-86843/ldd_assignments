@@ -1,0 +1,1 @@
+savedcmd_/home/sunbeam/Desktop/college/sunbeam/Daily_codes/ldd/06_pchar_ioctl/modules.order := {   echo /home/sunbeam/Desktop/college/sunbeam/Daily_codes/ldd/06_pchar_ioctl/pchar.o; :; } > /home/sunbeam/Desktop/college/sunbeam/Daily_codes/ldd/06_pchar_ioctl/modules.order
